@@ -1,0 +1,4 @@
+shubham, 25, shubham@gmail.com ,Male, Student, YES
+shubham, 25, shubham@gmail.com ,Male, Student, YES
+Alfa, 26, alfa@gmail.c ,Male, Teacher, YES
+, ,  ,Male, , NO
