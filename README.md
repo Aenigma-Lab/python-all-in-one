@@ -48,5 +48,5 @@ Here’s how the repository is organized:
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/your-username/python-all-in-one.git
+   git clone https://github.com/aenigma-lab/python-all-in-one.git
    cd python-all-in-one
