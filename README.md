@@ -1,6 +1,6 @@
 # 🐍 Python All-In-One
 
-![Repo Size](https://img.shields.io/github/repo-size/your-username/python-all-in-one?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/aenigma-lab/python-all-in-one?style=flat-square)
 ![Contributors](https://img.shields.io/github/contributors/your-username/python-all-in-one?color=blue&style=flat-square)
 ![Issues](https://img.shields.io/github/issues/your-username/python-all-in-one?style=flat-square)
 ![License](https://img.shields.io/github/license/your-username/python-all-in-one?style=flat-square)
