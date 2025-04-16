@@ -1,9 +1,10 @@
 # 🐍 Python All-In-One
 
-![Repo Size](https://img.shields.io/github/repo-size/aenigma-lab/python-all-in-one?style=flat-square)
-![Contributors](https://img.shields.io/github/contributors/your-username/python-all-in-one?color=blue&style=flat-square)
-![Issues](https://img.shields.io/github/issues/your-username/python-all-in-one?style=flat-square)
-![License](https://img.shields.io/github/license/your-username/python-all-in-one?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/your-username/python-all-in-one?style=flat-square)
+![Contributors](https://img.shields.io/github/contributors/aenigma-lab/python-all-in-one?color=blue&style=flat-square)
+![Issues](https://img.shields.io/github/issues/aenigma-lab/python-all-in-one?style=flat-square)
+![License](https://img.shields.io/github/license/aenigma-lab/python-all-in-one?style=flat-square)
+
 
 > **A comprehensive Python repository** covering a variety of mini projects, coding problem statements, and foundational Python scripts. Perfect for learners and enthusiasts looking to deepen their Python skills and explore fun projects!
 
