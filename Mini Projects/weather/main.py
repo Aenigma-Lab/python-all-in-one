@@ -38,7 +38,7 @@ print(len(temp_list))
 avg_temp = sum(temp_list)/len(temp_list)
 print(f"avg temp is {avg_temp}")
 
-# in panda we can do finding mean temp 
+# in pandas we can do finding mean, median, mode, max, etc. temp
 # this will give avg temp
 print(data['temp'].mean())
 print(data['temp'].median())
@@ -57,3 +57,12 @@ print(data[data.day == "Monday"])
 print(data[data["day"] == "Monday"])
 
 print(data[data.temp == data.temp.max()])
+
+#own list to convert data in pandas
+data_dict = {
+    "name" : ['shubham','midhat','kiran','sana'],
+    "roll_no":[100, 99, 98, 97]
+}
+
+data = pandas.DataFrame(data_dict)
+print(data)
