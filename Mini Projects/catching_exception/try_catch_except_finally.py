@@ -40,12 +40,14 @@ else:
 
 # The finally block ALWAYS runs, no matter what happened above.
 # This is usually used for cleanup actions like closing files or releasing resources.
+# we can raise own exception ..................
 finally:
-    try:
-        file.close()  # Close the file if it was successfully opened.
-        print("File was closed.")
-    except FileNotFoundError:
-        print("file not found")
+    raise KeyError("you input wrong key.")
+    # try:
+    #     file.close()  # Close the file if it was successfully opened.
+    #     print("File was closed.")
+    # except FileNotFoundError:
+    #     print("file not found")
 
 
 #=========================================================================================================================================================================
