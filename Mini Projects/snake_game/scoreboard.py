@@ -10,11 +10,11 @@ class Scoreboard(Turtle):
         self.score = 0
         with open("data.txt") as data:
             self.high_score = int(data.read())
-        self.color("white")
-        self.penup()
-        self.goto(0, 270)
-        self.hideturtle()
-        self.update_scoreboard()
+            self.color("white")
+            self.penup()
+            self.goto(0, 270)
+            self.hideturtle()
+            self.update_scoreboard()
 
     def update_scoreboard(self):
         self.clear()
